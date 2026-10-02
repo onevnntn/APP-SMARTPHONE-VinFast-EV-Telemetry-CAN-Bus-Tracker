@@ -125,3 +125,18 @@ ESP32 phát chuỗi định dạng JSON qua BLE Notification (UUID Characteristi
 - [ ] Tích hợp thẻ nhớ **MicroSD** trên ESP32 để lưu log offline khi không nối ứng dụng.
 - [ ] Thêm tính năng phân tích **Thói quen lái xe** (Số lần phanh gắt, tăng tốc nhanh dựa trên thay đổi dòng/áp).
 - [ ] Lưu dữ liệu lịch sử chuyến đi vào cơ sở dữ liệu SQLite/Hive ngay trên ứng dụng Flutter.
+## 📖 Cảnh Báo Miễn Trừ Trách Nhiệm (Disclaimer)
+
+> Dự án phục vụ mục đích nghiên cứu học thuật, sửa chữa và tham khảo kỹ thuật. Tác giả không chịu trách nhiệm đối với bất kỳ rủi ro, hư hỏng thiết bị, cháy nổ hoặc mất an toàn nào phát sinh khi người dùng áp dụng thực tế trên khối pin lithium-ion.
+
+---
+
+## ☕ Ủng Hộ Tác Giả (Donate)
+
+Ủng hộ mình nếu thấy dự án có ích! 
+
+Zalo: **0844491666** (Tôi sẽ trả lời khi rảnh do không có nhiều thời gian vì phải đi kiếm tiền).
+
+| VietQR Techcombank | Thông Tin Chuyển Khoản |
+| :---: | :--- |
+| ![Techcombank QR](https://github.com/user-attachments/assets/3ab6c50e-0783-4ad7-8861-2cce75575c91) | **Chủ tài khoản:** TRAN DUY THO<br>**Số tài khoản:** `3013 2838 69`<br>**Ngân hàng:** Techcombank |
